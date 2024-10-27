@@ -1,0 +1,5 @@
+Package: loadlogd
+Version: 0.1
+Maintainer: Tom Allen <tom@nonserviam.net>
+Architecture: any
+Description: simple load logger
